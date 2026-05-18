@@ -2,7 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+sensor_data.zip
+sensor_data
 # C extensions
 *.so
 
