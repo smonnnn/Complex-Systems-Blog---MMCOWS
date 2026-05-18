@@ -8,7 +8,7 @@ library(MASS)
 library(GGally)
 library(ggplot2)
 library(dplyr)
-cbt_df <- read_csv("C:/Users/Admin/Desktop/sensor_data/main_data/cbt/C01.csv")
+cbt_df <- read_csv("sensor_data/main_data/cbt/C01.csv")
 temperature_vector <- cbt_df$temperature_C
 tau.acf <- timeLag(temperature_vector, technique = "acf", lag.max = 100, do.plot = T)
 print(tau.acf)
