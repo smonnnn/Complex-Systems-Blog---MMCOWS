@@ -4,6 +4,8 @@ This repository contains 8 portfolios for the Complex Systems course as part of 
 
 ## Portfolios
 
+The notebooks can be viewed by opening the 'index.html' file in a browser, from there each blog post can be easily navigated to and accessed.
+
 - [Temporal Dynamics of Change](module-2/Module_2.ipynb)
 - [Properties of Complex Systems in Sensor Data From MmCows: Dairy Cows Dataset](module-3/module_3.ipynb)
 
@@ -17,8 +19,6 @@ This repository contains 8 portfolios for the Complex Systems course as part of 
 ## Setup
 
 Each portfolio is contained in its own notebook file. In order to run a notebook, you need to download and import the [mmcows](https://github.com/neis-lab/mmcows) data set into the cloned repository, which can be done with the help of the 'download_and_extract_data' notebook.
-
-The notebooks can be viewed by opening the 'index.html' file in a browser, from there each blog post can be easily navigated to and accessed.
 
 Step by step instructions for reproducing our notebooks:
 
