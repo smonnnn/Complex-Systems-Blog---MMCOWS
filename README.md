@@ -4,7 +4,12 @@ This repository contains 8 portfolios for the Complex Systems course as part of 
 
 ## Portfolios
 
+- [Temporal Dynamics of Change](module-2/Module_2.ipynb)
+- [Attractor Dynamics in the MMcows Dataset](module-4/Module4.ipynb)
+- [Surrogate Testing on MMCows Cow Movement Data](module-5/Module%205.ipynb)
+- [Surrogate Testing on MMCows Cow Movement Data — Determinism Analysis](module-7/module_7.ipynb)
 - [Measuring Feeding Coordination of Dairy Cows Using a Complex Systems Approach](module-8/portfolio-module-8.ipynb)
+- [Time-Varying Interaction Strengths in Dairy Cow Thermoregulation](module-10/module_10.ipynb)
 - [Signal Complexity in Dairy Cow Behavior Through Sample Entropy Analysis](module-12/portfolio-module-12.ipynb)
 
 ## Setup
