@@ -14,13 +14,13 @@ This repository contains 8 portfolios for the Complex Systems course as part of 
 
 ## Setup
 
-Each portfolio is contained in its own notebook file. In order to run a notebook, you need to download and import the [mmcows](https://github.com/neis-lab/mmcows) data set into the cloned repository.
+Each portfolio is contained in its own notebook file. In order to run a notebook, you need to download and import the [mmcows](https://github.com/neis-lab/mmcows) data set into the cloned repository, which can be done with the help of the 'download_and_extract_data' notebook.
 
 Step by step instructions:
 
 1. Clone this repository by running `git clone https://github.com/smonnnn/Complex-Systems-Blog---MMCOWS.git` or download it as a zip file.
-2. Download the mmcows data set from [HuggingFace](https://huggingface.co/datasets/neis-lab/mmcows) or check the original repository for download links
-3. Create a `data` folder in the root directory of this repository containing the sensor data of the mmcows data set.
+2. Create a venv python environment and run the 'download_and_extract_data' notebook codeblocks to download and extract the dataset.
+3. Run the individual notebooks.
 
 Your final folder structure should look like this
 
