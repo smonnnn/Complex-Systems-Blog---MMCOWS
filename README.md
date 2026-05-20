@@ -1,8 +1,8 @@
 # Complex-Systems-Blog---MMCOWS
 
-This repository contains 8 portfolios for the Complex Systems course as part of Travis J. Wiltshire's Complex Systems Methods for Cognitive and Data Scientists course at Tilburg University.
+This repository contains 8 blog posts written by Aaron Schneyer, Kristiyan Hristov, Marc Köhler, Nina Delcaro, Patricio Garcia del Valle, and Simon Looij. They were created as part of the Complex Systems course as part of Travis J. Wiltshire's Complex Systems Methods for Cognitive and Data Scientists course at Tilburg University.
 
-## Portfolios
+## Portfolio - blog posts
 
 The notebooks can be viewed by opening the 'index.html' file in a browser, from there each blog post can be easily navigated to and accessed.
 
@@ -18,7 +18,7 @@ The notebooks can be viewed by opening the 'index.html' file in a browser, from 
 
 ## Setup
 
-Each portfolio is contained in its own notebook file. In order to run a notebook, you need to download and import the [mmcows](https://github.com/neis-lab/mmcows) data set into the cloned repository, which can be done with the help of the 'download_and_extract_data' notebook.
+Each entry is contained in its own notebook file. In order to run a notebook, you need to download and import the [mmcows](https://github.com/neis-lab/mmcows) data set into the cloned repository, which can be done with the help of the 'download_and_extract_data' notebook.
 
 Step by step instructions for reproducing our notebooks:
 
