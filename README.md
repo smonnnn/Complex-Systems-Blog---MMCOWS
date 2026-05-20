@@ -18,7 +18,9 @@ This repository contains 8 portfolios for the Complex Systems course as part of 
 
 Each portfolio is contained in its own notebook file. In order to run a notebook, you need to download and import the [mmcows](https://github.com/neis-lab/mmcows) data set into the cloned repository, which can be done with the help of the 'download_and_extract_data' notebook.
 
-Step by step instructions:
+The notebooks can be viewed by opening the 'index.html' file in a browser, from there each blog post can be easily navigated to and accessed.
+
+Step by step instructions for reproducing our notebooks:
 
 1. Clone this repository by running `git clone https://github.com/smonnnn/Complex-Systems-Blog---MMCOWS.git` or download it as a zip file.
 2. Create a venv python environment and run the 'download_and_extract_data' notebook codeblocks to download and extract the dataset.
