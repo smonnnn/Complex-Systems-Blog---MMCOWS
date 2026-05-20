@@ -5,6 +5,8 @@ This repository contains 8 portfolios for the Complex Systems course as part of 
 ## Portfolios
 
 - [Temporal Dynamics of Change](module-2/Module_2.ipynb)
+- [Properties of Complex Systems in Sensor Data From MmCows: Dairy Cows Dataset](module-3/module_3.ipynb)
+
 - [Attractor Dynamics in the MMcows Dataset](module-4/Module4.ipynb)
 - [Surrogate Testing on MMCows Cow Movement Data](module-5/Module%205.ipynb)
 - [Surrogate Testing on MMCows Cow Movement Data — Determinism Analysis](module-7/module_7.ipynb)
