@@ -1,6 +1,6 @@
 # Complex-Systems-Blog---MMCOWS
 
-This repository contains 8 blog posts written by Aaron Schneyer, Kristiyan Hristov, Marc Köhler, Nina Delcaro, Patricio Garcia del Valle, and Simon Looij. They were created as part of the Complex Systems course as part of Travis J. Wiltshire's Complex Systems Methods for Cognitive and Data Scientists course at Tilburg University.
+This repository contains 8 blog posts written by Aaron Schneyer, Kristiyan Hristov, Marc Köhler, Nina Delcaro, Patricio Garcia del Valle, and Simon Looij. They were created as part of Travis J. Wiltshire's Complex Systems Methods for Cognitive and Data Scientists course at Tilburg University.
 
 ## Portfolio - blog posts
 
